@@ -1,5 +1,5 @@
 # プロフィール 
 
- |TEST|TEST2| 
- |----|-----| 
- |aiueo|kakikukeko|
+ | TEST | TEST2 | 
+ | ---- | ----- | 
+ | aiueo | kakikukeko |
