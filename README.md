@@ -1,4 +1,4 @@
-![shimeji](https://user-images.githubusercontent.com/75207466/113388218-c56e1400-93c8-11eb-8eae-8932dfdedf17.png)
+![github-header](https://user-images.githubusercontent.com/75207466/113388397-1d0c7f80-93c9-11eb-8641-0c14c6701014.png)
 
 # プロフィール 
  | category | info |
