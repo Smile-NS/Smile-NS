@@ -1,4 +1,4 @@
-![github-header](https://user-images.githubusercontent.com/75207466/113388588-75dc1800-93c9-11eb-9d1e-b17aad9a30f6.png)
+![github-header](https://user-images.githubusercontent.com/75207466/113388673-a15f0280-93c9-11eb-9860-9574e56e3b1e.png)
 # プロフィール 
  | category | info |
  | :--------: | ---- |
