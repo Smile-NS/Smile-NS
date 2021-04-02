@@ -21,4 +21,4 @@
  | ---- | ---- |
  | Discord | すまいる#6294 |
  | GitHub | [Smile-NS](https://github.com/Smile-NS) |
- | Minecraft | Smile_NS [NameMC] (https://ja.namemc.com/search?q=Smile_NS) |
+ | Minecraft | Smile_NS [NameMC](https://ja.namemc.com/search?q=Smile_NS) |
