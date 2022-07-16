@@ -1,4 +1,4 @@
-![github-header](https://cdn.discordapp.com/attachments/772130235738357803/997783834101821480/smile_dot.png)
+<img src="https://cdn.discordapp.com/attachments/772130235738357803/997783480803008522/smile_dot.png" width="250">
 # プロフィール 
  | category | info |
  | :--------: | ---- |
