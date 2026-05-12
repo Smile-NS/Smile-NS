@@ -4,10 +4,10 @@
  | category | info |
  | :--------: | ---- |
  | 名前 | `すまいる/Smile_NS` |
- | 年齢 | 15 |
+ | 年齢 | 19 |
  | 性格 | 適当 |
  | 言語 | Java, JavaScript, Python | 
- | プログラミング歴 | ２年 | 
+ | プログラミング歴 | ?年 | 
 
 プログラミングだけでなく動画編集や画像編集などもします。  
 絵を描くことが得意です。  
@@ -21,4 +21,4 @@ Minecraftのプラグインを主に作っています。
  | Discord | すまいる#6294 |
  | GitHub | [Smile-NS](https://github.com/Smile-NS) |
  | Minecraft | Smile_NS [NameMC](https://ja.namemc.com/search?q=Smile_NS) |  
- | Twitter | [Smile0NS](https://twitter.com/Smile0NS) |
+ | X | [Smile0NS](https://x.com/Smile0NS) |
